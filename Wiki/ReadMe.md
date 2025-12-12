@@ -70,3 +70,12 @@ Button Features:
 The pseudocode is saved in [WikiVorlage/Pseudocode Vorlage/AutoAddBackButtonToWikiPages.md](Übungen/WikiVorlage/Pseudocode Vorlage/AutoAddBackButtonToWikiPages.md)
 
 You can now tell me: "Add back buttons to all wiki pages using the AutoAddBackButtonToWikiPages pseudocode" and I'll implement it!
+
+
+How to use:
+1. scan your class with wikipage template.
+2. add all scans into a folder. you can also add all other kind of folders and data and the ki will scan for them and add sections on the wiki accordingly.
+For more info check the teplates themself for more informations
+3. run wikiindex template with the folder as reference
+4. run auto add butto to check the sites and add backbuttons to all wiki pages.
+5. enjoy

@@ -70,9 +70,11 @@ Button Features:
 ♿ Accessible - Includes ARIA labels
 The pseudocode is saved in [WikiVorlage/Pseudocode Vorlage/AutoAddBackButtonToWikiPages.md](Übungen/WikiVorlage/Pseudocode Vorlage/AutoAddBackButtonToWikiPages.md)
 
+Usage:
 You can now tell me: "Add back buttons to all wiki pages using the AutoAddBackButtonToWikiPages pseudocode" and I'll implement it!
 
 
+From Start to finish:
 How to use:
 always refernee the template + the code you want to use
 1. scan your class with wikipage template.

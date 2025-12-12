@@ -73,6 +73,7 @@ You can now tell me: "Add back buttons to all wiki pages using the AutoAddBackBu
 
 
 How to use:
+always refernee the template + the code you want to use
 1. scan your class with wikipage template.
 2. add all scans into a folder. you can also add all other kind of folders and data and the ki will scan for them and add sections on the wiki accordingly.
 For more info check the teplates themself for more informations

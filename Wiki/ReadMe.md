@@ -38,10 +38,9 @@ Key Features:
 ✅ Multi-format support - Works with HTML, Markdown, and various project types
 
 Usage:
-You can now tell me: "Generate a wiki index for this project using the AutoGenerateWikiIndex pseudocode" and I'll follow this systematic approach!
+add your structure and files into a folder and run the following with references to the folder and the template:
 
-The pseudocode is saved in [WikiVorlage/Pseudocode Vorlage/AutoGenerateWikiIndex.md](Übungen/WikiVorlage/Pseudocode Vorlage/AutoGenerateWikiIndex.md))))
-
+"Generate a wiki index for this project using the AutoGenerateWikiIndex pseudocode" and I'll follow this systematic approach!
 
 Index:
 -------

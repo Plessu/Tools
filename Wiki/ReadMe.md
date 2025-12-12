@@ -17,6 +17,8 @@ Add Your Pages - Link to your documentation in the API/Guides sections
 Update Links - Replace placeholder # links with actual pages
 Adjust Sections - Add/remove sections as needed
 
+Usage:
+You can now tell me: "Generate a wikipage for the folloing code: #your code
 
 Wiki MAin:
 -----------
